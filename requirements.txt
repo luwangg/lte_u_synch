@@ -1,0 +1,8 @@
+sh
+future
+PyRIC
+pyzmq
+peakutils
+numpy
+scipy
+git+https://github.com/cristianav/PyCRC.git
